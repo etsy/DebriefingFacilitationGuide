@@ -1,0 +1,29 @@
+# Table of Contents
+- Introduction
+	- What Brought Us to Write This
+	- Who This Guide Is for
+	- Influences and Inspiration
+	- Why We Focus on Facilitation Skills
+	- The Benefit to Others: Vicarious Experiences
+	- The Goal Is to Learn, Not to Produce Remediation Items
+- Structure and Preparation
+	- Familiarize Yourself With the Timeline in Advance
+	- Unearth More Objective and Subjective Data
+	- Talking to the People Who Would Usually Be Blamed Is Really Important
+	- Come up With Some Initial Questions
+	- Documentation
+	- Setting Expectations
+	- Structure of the Discussion
+- The Art of Asking Questions
+	- Keep Your Ultimate Goal in Mind
+	- It’s All About the Questions You Ask
+	- Remember to Look for Descriptions, Not Explanations
+	- Probe for the Invisible Parts of Expertise
+		- How Do They “See” Typicality?
+		- How Do They “See” Distinctions?
+		- How Do They “See” the Future Unfolding?
+	- Ask Dumb Questions
+	- When to Dig in More
+	- How Do You Know If You’ve Succeeded?
+- Conclusion
+- References
