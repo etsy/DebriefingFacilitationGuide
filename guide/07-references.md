@@ -10,4 +10,4 @@
 - Shorrock, S. (2014, November 17), Life After Human Error - Velocity Europe 2014 [Video file]. Retrieved from https://www.youtube.com/watch?v=STU3Or6ZU60
 - Smith, J. (2016, January 14). 72% of people get their best ideas in the shower—here’s why. Retrieved from http://www.businessinsider.com/why-people-get-their-best-ideas-in-the- shower-2016-1
 - USDA Forest Service (2014) Coordinated Response Protocol/Learning Review Guide, USDA Forest Service
-Dekker, Sidney (2014). The Field Guide to Understanding ‘Human Error’ (p. 81). Ashgate Publishing Ltd. Kindle Edition.
+- Dekker, Sidney (2014). The Field Guide to Understanding ‘Human Error’ (p. 81). Ashgate Publishing Ltd. Kindle Edition.
