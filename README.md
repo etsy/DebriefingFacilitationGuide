@@ -11,8 +11,10 @@ This Debriefing Facilitation Guide is an attempt to complement this blog post
 with a more practical guide about how we approach learning from incidents in
 practice.
 
-The guide is available in [markdown][markdown_guide] or [PDF][pdf_guide].
+You can read more about the backstory [here][cac_post2] and guide is available
+in [markdown][markdown_guide] or [PDF][pdf_guide].
 
 [cac_post]: https://codeascraft.com/2012/05/22/blameless-postmortems/
+[cac_post2]: https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/
 [markdown_guide]: https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide
 [pdf_guide]: http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
