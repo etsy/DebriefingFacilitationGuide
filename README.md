@@ -15,4 +15,4 @@ The guide is available in [markdown][markdown_guide] or [PDF][pdf_guide].
 
 [cac_post]: https://codeascraft.com/2012/05/22/blameless-postmortems/
 [markdown_guide]: https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide
-[pdf_guide]: http://extfiles.etsy.com/LearningOrganisation/DebriefingFacilitationGuide.pdf
+[pdf_guide]: http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
