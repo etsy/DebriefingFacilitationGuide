@@ -212,7 +212,7 @@ has finished walking through the timeline. This is inevitable, but these
 contributions are less effective during this part of the debriefing. Your job
 as the facilitator is to encourage people to write down any ideas for
 improvement (sometimes known as “remediations”) that come up during the
-timeline reconstruction, so they can bring them up later, are the timeline is
+timeline reconstruction, so they can bring them up later, after the timeline is
 complete. More often than not, the unfolding of events in the timeline render
 those initial remediation items moot when the full (or at least fuller) context
 becomes clear. So let the room know there will be a time for remediation items
