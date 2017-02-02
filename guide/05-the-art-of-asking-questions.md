@@ -214,7 +214,7 @@ knowledge.” For example:
 > “…of course I didn’t want to pull it from the load balancer
 > that way, obviously.”
 
-When you get an answer like, it’s a great signal to ask what brings them to
+When you get an answer like this, it’s a great signal to ask what brings them to
 think the judgment they made was obvious. Gauge the rest of the group:
 
 > “Is making this call not to pull it from the load balancer that way obvious to
