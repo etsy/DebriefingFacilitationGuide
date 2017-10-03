@@ -27,7 +27,7 @@ we want. The perspective now known as the “New View” on accidents and mistak
 flips this thinking around, providing a different path to improvement and
 learning (Dekker, 2002). We wholeheartedly believe in this approach at Etsy.
 We’ve invested in operationalizing it on an organizational level (Allspaw,
-2010) and have shared our perspective publicly:
+2012) and have shared our perspective publicly:
 
 > “Adaptability and learning. We learn through honest, blameless reflection on
 > lessons and surprises. We believe that traditional rootcause analysis makes
