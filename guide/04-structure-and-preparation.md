@@ -195,7 +195,7 @@ introduction to this topic: https:// www.youtube.com/watch?v=PVWjgqDANWA
 >
 
 ## Structure of the Discussion
-One of best ways to ensure you are following a path of exploration (instead of
+One of the best ways to ensure you are following a path of exploration (instead of
 looking for a single fix) is by sticking closely to the timeline. This makes
 sure you get a representation of the past that everyone in the room agrees is
 as close as possible to what really happened. Any remediation items based on a
