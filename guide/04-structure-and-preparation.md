@@ -162,7 +162,7 @@ brief introduction in the debrief to remind participants what you are all there
 for: a semi-structured group interview. Nothing more.
 
 [3]: Sidney Dekker has produced a set of short seminars that we recommend as an
-introduction to this topic: https:// www.youtube.com/watch?v=PVWjgqDANWA
+introduction to this topic: https://sidneydekker.com/films/
 
 > **Your introduction is meant to set up the paradigm within which everyone will
 > operate for the duration of the debrief. Here is some sample introduction
